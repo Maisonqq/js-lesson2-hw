@@ -59,3 +59,10 @@
 
 
 //Двенадцатое задание
+// 5 > 4 // ответ: true
+// "ананас" > "яблоко" // ответ: false 
+// "2" > "12" // ответ: true
+// undefined == null // ответ: ture 
+// undefined === null // ответ: false
+// null == "\n0\n" // ответ: false
+// null === +"\n0\n" // ответ: false
