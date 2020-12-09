@@ -61,7 +61,7 @@
 // 5 > 4 // ответ: true
 // "ананас" > "яблоко" // ответ: false
 // "2" > "12" // ответ: true
-// undefined == null // ответ: ture
+// undefined == null // ответ: true
 // undefined === null // ответ: false
 // null == "\n0\n" // ответ: false
 // null === +"\n0\n" // ответ: false
@@ -69,4 +69,13 @@
 //Тринадцатое задание
 // if ("0") {
 //   alert("Привет"); // alert выведется
+// }
+
+//Четырнадцатое задание
+// let jsName = prompt('Какое "официальное" название JavaScript?', "");
+
+// if (jsName === "ECMAScript") {
+//   alert("Правильно");
+// } else {
+//   alert("Не знаете? ECMAScript");
 // }
